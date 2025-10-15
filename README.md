@@ -1,6 +1,5 @@
 # Metaverse-Management-Education-SLR
 This repository contains the complete materials for a systematic literature review on “Metaverse in Management Education.” The review investigates how metaverse technologies are being applied in management education, what challenges and opportunities they present, and synthesizes current knowledge to identify gaps and future research directions.
-# Metaverse-in-Management-Education SLR – Screening & Scoring
 
 This repo contains the reproducible pipeline for second-stage screening and theoretical relevance scoring used in the IJMR SLR.
 
@@ -37,4 +36,4 @@ Outputs:
 - data/included_set.xlsx – final set for full-text synthesis
 
 ## Citation
-YourSurname, A., & Coauthor, B. (2025). Metaverse in Management Education SLR – Screening scripts and dataset (v1.0). GitHub; Zenodo DOI: XXXXX.
+
